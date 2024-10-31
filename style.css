@@ -5,4 +5,20 @@ body {
 
 header{
  border-bottom:solid 1px greenyellow;
+ padding: 10px;
+font-size:20px ;
 }
+ 
+section {
+ background: rgb(1, 1, 105);
+ padding-bottom: 10px ;
+ padding-top:1px ;
+ display:flex;
+ justify-content:center;
+}
+
+.algo{
+  margin-right:50px ;
+
+}
+
